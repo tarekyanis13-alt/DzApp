@@ -1,0 +1,73 @@
+[
+  {
+    "id": "route_option_1",
+    "departureTime": "2025-11-09T09:30:00Z",
+    "arrivalTime": "2025-11-09T10:05:00Z",
+    "totalDurationMinutes": 35,
+    "totalWalkingMinutes": 8,
+    "optimization": "fastest",
+    "emissionsKg": 1.2,
+    "costDZD": 120,
+    "steps": [
+      {
+        "type": "walk",
+        "description": "Walk to Kharouba Metro",
+        "durationMinutes": 5,
+        "distanceMeters": 420
+      },
+      {
+        "type": "ride",
+        "description": "Take Metro Line 1 towards El Harrach",
+        "durationMinutes": 18,
+        "lineId": "metro_line_1",
+        "fromStop": "alg_metro_khartoun",
+        "toStop": "alg_tram_cite2004"
+      },
+      {
+        "type": "transfer",
+        "description": "Transfer to Tram Est",
+        "durationMinutes": 4
+      },
+      {
+        "type": "ride",
+        "description": "Take Tram Est to Bordj El Kiffan",
+        "durationMinutes": 12,
+        "lineId": "tram_east",
+        "fromStop": "alg_tram_cite2004",
+        "toStop": "alg_tram_cite2004"
+      }
+    ]
+  },
+  {
+    "id": "route_option_2",
+    "departureTime": "2025-11-09T09:25:00Z",
+    "arrivalTime": "2025-11-09T10:15:00Z",
+    "totalDurationMinutes": 50,
+    "totalWalkingMinutes": 4,
+    "optimization": "cheapest",
+    "emissionsKg": 0.9,
+    "costDZD": 80,
+    "steps": [
+      {
+        "type": "walk",
+        "description": "Walk to USTO Bus Stop",
+        "durationMinutes": 4,
+        "distanceMeters": 300
+      },
+      {
+        "type": "ride",
+        "description": "Take Bus 12 towards Medina Jdida",
+        "durationMinutes": 28,
+        "lineId": "oran_bus_12",
+        "fromStop": "oran_bus_ustal",
+        "toStop": "oran_bus_ustal"
+      },
+      {
+        "type": "walk",
+        "description": "Walk to final destination",
+        "durationMinutes": 6,
+        "distanceMeters": 480
+      }
+    ]
+  }
+]

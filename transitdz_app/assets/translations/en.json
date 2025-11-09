@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "TransitDZ",
+    "tagline": "Navigate Algeria effortlessly"
+  },
+  "common": {
+    "search": "Search",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "continue": "Continue",
+    "view_all": "View all",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "arrival": "Arrival",
+    "departure": "Departure",
+    "minutes": "{value} min",
+    "meter": "{value} m",
+    "kilometer": "{value} km",
+    "dzd": "{value} DZD",
+    "updated": "Updated {value}",
+    "platform": "Platform {value}",
+    "error": "Something went wrong",
+    "retry": "Retry"
+  },
+  "onboarding": {
+    "slide1_title": "All transport in one place",
+    "slide1_subtitle": "Bus, tram, metro, rail, intercity and shared taxis across 58 wilayas.",
+    "slide2_title": "Live arrivals and alerts",
+    "slide2_subtitle": "Track vehicles in real time, receive service alerts and crowding insights.",
+    "slide3_title": "Smart route planning",
+    "slide3_subtitle": "Compare the fastest, cheapest and least walking itineraries instantly.",
+    "cta": "Get started"
+  },
+  "home": {
+    "search_hint": "Where do you want to go?",
+    "current_location": "Current location",
+    "next_departures": "Next departures",
+    "live_updates": "Live updates",
+    "plan_trip": "Plan a trip",
+    "open_map": "Open full map"
+  },
+  "planner": {
+    "title": "Trip planner",
+    "from": "From",
+    "to": "To",
+    "leave_now": "Leave now",
+    "arrive_by": "Arrive by",
+    "depart_at": "Depart at",
+    "options": "Options",
+    "fastest": "Fastest",
+    "least_walking": "Least walking",
+    "cheapest": "Cheapest",
+    "results_title": "Suggested routes",
+    "summary": "{duration} • {transfers} transfers • {arrival}",
+    "details": "Route details"
+  },
+  "realtime": {
+    "title": "Live tracker",
+    "vehicles_active": "{count} vehicles active",
+    "no_vehicles": "No vehicles currently tracked",
+    "status_on_time": "On time",
+    "status_delayed": "Delayed",
+    "status_ahead": "Ahead of schedule"
+  },
+  "stops": {
+    "next_arrivals": "Next arrivals",
+    "lines": "Lines",
+    "amenities": "Amenities",
+    "crowding": "Crowding",
+    "weekday_schedule": "Weekday schedule",
+    "weekend_schedule": "Weekend schedule"
+  },
+  "lines": {
+    "frequency": "Every {value} min",
+    "operating_hours": "Operating hours",
+    "stops": "Stops",
+    "alerts": "Live alerts"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "lines": "Lines",
+    "stops": "Stops",
+    "empty": "Save your most used lines, stops and trips for quick access."
+  },
+  "settings": {
+    "title": "Settings",
+    "units": "Units",
+    "metric": "Metric",
+    "imperial": "Imperial",
+    "map_style": "Map style",
+    "privacy": "Privacy",
+    "about": "About TransitDZ"
+  },
+  "errors": {
+    "offline_title": "You are offline",
+    "offline_message": "Reconnect to update live arrivals and maps.",
+    "generic": "Unexpected error"
+  }
+}

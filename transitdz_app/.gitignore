@@ -1,0 +1,17 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+.packages
+.pub-cache/
+.pub/
+/coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool
+.idea/
+.vscode/
+.DS_Store
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh

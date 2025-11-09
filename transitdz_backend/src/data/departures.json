@@ -1,0 +1,26 @@
+[
+  {
+    "stopId": "alg_metro_khartoun",
+    "lineId": "metro_line_1",
+    "destination": "El Harrach Centre",
+    "arrivalMinutes": 2,
+    "status": "onTime",
+    "platform": "1"
+  },
+  {
+    "stopId": "alg_metro_khartoun",
+    "lineId": "metro_line_1",
+    "destination": "Tafourah Grande Poste",
+    "arrivalMinutes": 6,
+    "status": "delayed",
+    "platform": "2"
+  },
+  {
+    "stopId": "oran_bus_ustal",
+    "lineId": "oran_bus_12",
+    "destination": "Medina Jdida",
+    "arrivalMinutes": 4,
+    "status": "onTime",
+    "platform": "B"
+  }
+]

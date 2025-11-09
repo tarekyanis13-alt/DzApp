@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "TransitDZ",
+    "tagline": "Naviguez en Algérie sans effort"
+  },
+  "common": {
+    "search": "Rechercher",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "continue": "Continuer",
+    "view_all": "Voir tout",
+    "favorites": "Favoris",
+    "settings": "Réglages",
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système",
+    "arrival": "Arrivée",
+    "departure": "Départ",
+    "minutes": "{value} min",
+    "meter": "{value} m",
+    "kilometer": "{value} km",
+    "dzd": "{value} DZD",
+    "updated": "Mis à jour {value}",
+    "platform": "Quai {value}",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  },
+  "onboarding": {
+    "slide1_title": "Tous les transports réunis",
+    "slide1_subtitle": "Bus, tram, métro, rail, interurbain et taxis collectifs dans 58 wilayas.",
+    "slide2_title": "Arrivées et alertes en direct",
+    "slide2_subtitle": "Suivez les véhicules en temps réel, recevez des alertes et l'affluence.",
+    "slide3_title": "Planification intelligente",
+    "slide3_subtitle": "Comparez les itinéraires les plus rapides, économiques ou avec moins de marche.",
+    "cta": "Commencer"
+  },
+  "home": {
+    "search_hint": "Où souhaitez-vous aller ?",
+    "current_location": "Position actuelle",
+    "next_departures": "Prochains départs",
+    "live_updates": "Mises à jour live",
+    "plan_trip": "Planifier un trajet",
+    "open_map": "Ouvrir la carte"
+  },
+  "planner": {
+    "title": "Planificateur",
+    "from": "Départ",
+    "to": "Arrivée",
+    "leave_now": "Partir maintenant",
+    "arrive_by": "Arriver avant",
+    "depart_at": "Partir à",
+    "options": "Options",
+    "fastest": "Le plus rapide",
+    "least_walking": "Moins de marche",
+    "cheapest": "Le moins cher",
+    "results_title": "Itinéraires proposés",
+    "summary": "{duration} • {transfers} correspondances • {arrival}",
+    "details": "Détails de l'itinéraire"
+  },
+  "realtime": {
+    "title": "Suivi en direct",
+    "vehicles_active": "{count} véhicules en circulation",
+    "no_vehicles": "Aucun véhicule suivi",
+    "status_on_time": "À l'heure",
+    "status_delayed": "En retard",
+    "status_ahead": "En avance"
+  },
+  "stops": {
+    "next_arrivals": "Prochaines arrivées",
+    "lines": "Lignes",
+    "amenities": "Services",
+    "crowding": "Affluence",
+    "weekday_schedule": "Horaires semaine",
+    "weekend_schedule": "Horaires week-end"
+  },
+  "lines": {
+    "frequency": "Toutes les {value} min",
+    "operating_hours": "Plage horaire",
+    "stops": "Arrêts",
+    "alerts": "Alertes"
+  },
+  "favorites": {
+    "title": "Favoris",
+    "lines": "Lignes",
+    "stops": "Arrêts",
+    "empty": "Enregistrez vos lignes, arrêts et trajets favoris pour y accéder rapidement."
+  },
+  "settings": {
+    "title": "Réglages",
+    "units": "Unités",
+    "metric": "Métrique",
+    "imperial": "Impérial",
+    "map_style": "Style de carte",
+    "privacy": "Confidentialité",
+    "about": "À propos de TransitDZ"
+  },
+  "errors": {
+    "offline_title": "Vous êtes hors ligne",
+    "offline_message": "Reconnectez-vous pour actualiser les données en direct.",
+    "generic": "Erreur inattendue"
+  }
+}

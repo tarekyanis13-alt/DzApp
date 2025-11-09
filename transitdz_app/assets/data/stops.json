@@ -1,0 +1,62 @@
+[
+  {
+    "id": "alg_metro_khartoun",
+    "name": "Kharouba Metro",
+    "wilaya": "Algiers",
+    "latitude": 36.7739,
+    "longitude": 3.0589,
+    "modes": ["metro"],
+    "lines": ["metro_line_1"],
+    "address": "Boulevard Colonel Amirouche, Algiers",
+    "crowdingLevel": 0.7,
+    "amenities": ["wifi", "elevator", "security"]
+  },
+  {
+    "id": "alg_tram_cite2004",
+    "name": "Cité 2004 Tram",
+    "wilaya": "Algiers",
+    "latitude": 36.7135,
+    "longitude": 3.1835,
+    "modes": ["tram"],
+    "lines": ["tram_east"],
+    "address": "Cité 2004, Bordj El Kiffan",
+    "crowdingLevel": 0.4,
+    "amenities": ["shelter", "ticket_machine"]
+  },
+  {
+    "id": "oran_bus_ustal",
+    "name": "USTO University",
+    "wilaya": "Oran",
+    "latitude": 35.7026,
+    "longitude": -0.6229,
+    "modes": ["bus"],
+    "lines": ["oran_bus_12", "oran_bus_54"],
+    "address": "Université des Sciences et de la Technologie d'Oran",
+    "crowdingLevel": 0.6,
+    "amenities": ["shelter", "usb_charging"]
+  },
+  {
+    "id": "setif_tram_park",
+    "name": "Parc d'Attraction",
+    "wilaya": "Setif",
+    "latitude": 36.1911,
+    "longitude": 5.3997,
+    "modes": ["tram"],
+    "lines": ["setif_tram_main"],
+    "address": "Avenue de l'ALN, Sétif",
+    "crowdingLevel": 0.3,
+    "amenities": ["shelter", "ticket_machine"]
+  },
+  {
+    "id": "constantine_cable_ahmed",
+    "name": "Ahmed Bey Station",
+    "wilaya": "Constantine",
+    "latitude": 36.3451,
+    "longitude": 6.6525,
+    "modes": ["tram", "bus"],
+    "lines": ["const_tram_a", "const_bus_7"],
+    "address": "Place Ahmed Bey, Constantine",
+    "crowdingLevel": 0.5,
+    "amenities": ["elevator", "wifi"]
+  }
+]

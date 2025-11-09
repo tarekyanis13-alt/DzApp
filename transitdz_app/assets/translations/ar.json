@@ -1,0 +1,104 @@
+{
+  "app": {
+    "name": "ترانزيت دي زاد",
+    "tagline": "تنقّل بسهولة في الجزائر"
+  },
+  "common": {
+    "search": "بحث",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "continue": "متابعة",
+    "view_all": "عرض الكل",
+    "favorites": "المفضلة",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "theme": "السمة",
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "النظام",
+    "arrival": "الوصول",
+    "departure": "المغادرة",
+    "minutes": "{value} دقيقة",
+    "meter": "{value} متر",
+    "kilometer": "{value} كلم",
+    "dzd": "{value} دج",
+    "updated": "تم التحديث {value}",
+    "platform": "الرصيف {value}",
+    "error": "حدث خطأ",
+    "retry": "إعادة المحاولة"
+  },
+  "onboarding": {
+    "slide1_title": "كل وسائل النقل في مكان واحد",
+    "slide1_subtitle": "حافلات، ترام، مترو، قطارات، نقل بين المدن وتاكسيات جماعية في 58 ولاية.",
+    "slide2_title": "مواعيد وتنبيهات مباشرة",
+    "slide2_subtitle": "تابع المركبات لحظة بلحظة وتلقَّ تنبيهات الخدمة وكثافة الركاب.",
+    "slide3_title": "تخطيط ذكي للرحلات",
+    "slide3_subtitle": "قارن أسرع وأرخص الطرق وأقلها مشيًا فوراً.",
+    "cta": "ابدأ الآن"
+  },
+  "home": {
+    "search_hint": "إلى أين تريد الذهاب؟",
+    "current_location": "الموقع الحالي",
+    "next_departures": "المغادرات القادمة",
+    "live_updates": "تحديثات مباشرة",
+    "plan_trip": "خطط رحلة",
+    "open_map": "افتح الخريطة"
+  },
+  "planner": {
+    "title": "مخطط الرحلات",
+    "from": "من",
+    "to": "إلى",
+    "leave_now": "انطلق الآن",
+    "arrive_by": "الوصول قبل",
+    "depart_at": "المغادرة عند",
+    "options": "الخيارات",
+    "fastest": "الأسرع",
+    "least_walking": "أقل مشيًا",
+    "cheapest": "الأرخص",
+    "results_title": "مسارات مقترحة",
+    "summary": "{duration} • {transfers} تبديل • {arrival}",
+    "details": "تفاصيل المسار"
+  },
+  "realtime": {
+    "title": "تتبع مباشر",
+    "vehicles_active": "{count} مركبة نشطة",
+    "no_vehicles": "لا توجد مركبات متتبعة",
+    "status_on_time": "في الموعد",
+    "status_delayed": "متأخر",
+    "status_ahead": "متقدّم"
+  },
+  "stops": {
+    "next_arrivals": "الوصولات القادمة",
+    "lines": "الخطوط",
+    "amenities": "الخدمات",
+    "crowding": "الكثافة",
+    "weekday_schedule": "جدول أيام الأسبوع",
+    "weekend_schedule": "جدول عطلة نهاية الأسبوع"
+  },
+  "lines": {
+    "frequency": "كل {value} دقيقة",
+    "operating_hours": "ساعات العمل",
+    "stops": "المحطات",
+    "alerts": "التنبيهات"
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "lines": "الخطوط",
+    "stops": "المحطات",
+    "empty": "احفظ خطوطك ومحطاتك ورحلاتك للوصول السريع."
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "units": "الوحدات",
+    "metric": "متري",
+    "imperial": "إمبراطوري",
+    "map_style": "نمط الخريطة",
+    "privacy": "الخصوصية",
+    "about": "حول ترانزيت دي زاد"
+  },
+  "errors": {
+    "offline_title": "لا يوجد اتصال",
+    "offline_message": "أعد الاتصال لتحديث البيانات المباشرة.",
+    "generic": "خطأ غير متوقع"
+  }
+}
