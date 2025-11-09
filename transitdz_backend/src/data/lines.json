@@ -1,0 +1,72 @@
+[
+  {
+    "id": "metro_line_1",
+    "name": "Ligne 1 - Tafourah ↔ El Harrach",
+    "code": "M1",
+    "mode": "metro",
+    "color": "#6B3EE6",
+    "textColor": "#FFFFFF",
+    "operatingHours": "05:00 - 23:00",
+    "frequencyMinutes": {"peak": 4, "offPeak": 7},
+    "stops": ["alg_metro_khartoun"],
+    "category": "urban",
+    "farePolicy": "flat",
+    "description": "Algiers metro backbone connecting downtown to El Harrach."
+  },
+  {
+    "id": "tram_east",
+    "name": "Tramway Est d'Alger",
+    "code": "T-E",
+    "mode": "tram",
+    "color": "#9C6DFF",
+    "textColor": "#FFFFFF",
+    "operatingHours": "05:30 - 22:30",
+    "frequencyMinutes": {"peak": 6, "offPeak": 10},
+    "stops": ["alg_tram_cite2004"],
+    "category": "urban",
+    "farePolicy": "flat",
+    "description": "Tramway connecting Bordj El Kiffan with Algiers city center."
+  },
+  {
+    "id": "oran_bus_12",
+    "name": "Bus 12 USTO - Medina Jdida",
+    "code": "B12",
+    "mode": "bus",
+    "color": "#4AD9FF",
+    "textColor": "#0B1A3A",
+    "operatingHours": "05:30 - 20:30",
+    "frequencyMinutes": {"peak": 8, "offPeak": 12},
+    "stops": ["oran_bus_ustal"],
+    "category": "urban",
+    "farePolicy": "flat",
+    "description": "Key bus line serving western Oran neighborhoods."
+  },
+  {
+    "id": "oran_bus_54",
+    "name": "Bus 54 USTO - Aéroport",
+    "code": "B54",
+    "mode": "bus",
+    "color": "#2EC8FF",
+    "textColor": "#0B1A3A",
+    "operatingHours": "04:45 - 23:15",
+    "frequencyMinutes": {"peak": 12, "offPeak": 18},
+    "stops": ["oran_bus_ustal"],
+    "category": "urban",
+    "farePolicy": "flat",
+    "description": "Express airport connector for Oran."
+  },
+  {
+    "id": "setif_tram_main",
+    "name": "Tramway Sétif",
+    "code": "TS",
+    "mode": "tram",
+    "color": "#FF8A80",
+    "textColor": "#0B1A3A",
+    "operatingHours": "05:00 - 22:00",
+    "frequencyMinutes": {"peak": 7, "offPeak": 12},
+    "stops": ["setif_tram_park"],
+    "category": "urban",
+    "farePolicy": "flat",
+    "description": "Tram serving the main axis of Sétif."
+  }
+]

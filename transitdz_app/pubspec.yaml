@@ -1,0 +1,44 @@
+name: transitdz
+description: TransitDZ is a real-time multimodal transit app for Algeria.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.18.1
+  flutter_riverpod: ^2.5.1
+  dio: ^5.4.0
+  web_socket_channel: ^2.4.0
+  mapbox_gl: ^0.16.0
+  go_router: ^14.1.0
+  shared_preferences: ^2.2.2
+  collection: ^1.18.0
+  geolocator: ^10.1.0
+  flutter_animate: ^4.5.0
+  carousel_slider: ^4.2.1
+  uuid: ^3.0.7
+  lottie: ^3.0.0
+  flex_color_scheme: ^7.3.1
+  google_fonts: ^6.2.1
+  timeline_tile: ^2.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/translations/
+    - assets/icons/
+    - assets/lottie/

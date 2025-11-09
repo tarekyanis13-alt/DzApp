@@ -1,0 +1,13 @@
+[
+  {
+    "id": "alert_001",
+    "title": "Maintenance on Tram Est",
+    "message": "Service reduced after 21:00 between Cité 2004 and Bordj El Kiffan.",
+    "severity": "warning",
+    "scope": "line",
+    "status": "active",
+    "lineId": "tram_east",
+    "validFrom": "2025-11-09T18:00:00Z",
+    "validUntil": "2025-11-10T06:00:00Z"
+  }
+]
